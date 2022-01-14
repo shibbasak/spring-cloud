@@ -6,3 +6,4 @@ JPA
 Docker Container
 AWS
 RDS
+Fargate
