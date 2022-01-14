@@ -1,0 +1,6 @@
+List of items:
+
+Java
+Maven
+JPA
+Docker Container
