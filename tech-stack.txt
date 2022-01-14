@@ -4,3 +4,4 @@ Java
 Maven
 JPA
 Docker Container
+shell script
